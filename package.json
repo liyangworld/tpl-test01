@@ -1,0 +1,25 @@
+{
+  "name": "tpl-test01",
+  "version": "1.0.0",
+  "description": "ttttttttt",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liyangworld/tpl-test01.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liyangworld/tpl-test01/issues"
+  },
+  "homepage": "https://github.com/liyangworld/tpl-test01#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
